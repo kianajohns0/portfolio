@@ -6,8 +6,7 @@ Welcome to my data science portfolio! This repository highlights my key data sci
 ## Table of Contents
 1. [Data Science Projects](#data-science-projects)
 2. [Tools and Technologies](#tools-and-technologies)
-3. [Contact](#contact)
-
+   
 ## Data Science Projects
 Explore the following projects to see how I apply data science to various domains:
 
